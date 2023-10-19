@@ -1,3 +1,6 @@
+#link for the react app
+https://manavi24.github.io/favshows/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # favshows
+This app provides an easy way to keep track of my must-watch series and conveniently access them with a single click. One can click on a show to be redirected to the Netflix website where they can start watching the show.
